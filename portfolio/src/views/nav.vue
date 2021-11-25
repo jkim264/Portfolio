@@ -13,7 +13,7 @@
             <router-link to="/page4"><div class="nav-box-circle nav-box-default">WORK</div></router-link>
         </div>
         <div class="nav-box">
-            <router-link to="/page5"><div class="nav-box-circle nav-box-default">CONTACT</div></router-link>
+            <router-link to="/contact/write"><div class="nav-box-circle nav-box-default">CONTACT</div></router-link>
         </div>
     </div>
 </template>

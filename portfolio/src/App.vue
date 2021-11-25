@@ -1,17 +1,25 @@
 <template>
   <div id="app">
-    <router-view />
+  <router-view />
+    <div>
+    <Footer />
+    </div>
+    <div>
     <Nav />
+    </div>
   </div>
+  
 </template>
 
 <script>
   import Nav from './views/nav';
+  import Footer from './components/Footer';
 
   export default {
     name: "App",
     components: {
-      Nav
+      Nav,
+      Footer
     }
   }
 </script>
@@ -35,7 +43,7 @@ body {
   -khtml-user-select: none; 
   -webkit-user-select: none; 
   user-select: none;
-  
+  overflow: auto;
 } 
 
 @media(max-width:750px){ 
