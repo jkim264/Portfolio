@@ -12,7 +12,7 @@
 </template>
 
 <script>
-  import Nav from './views/nav';
+  import Nav from './components/nav';
   import Footer from './components/Footer';
 
   export default {
