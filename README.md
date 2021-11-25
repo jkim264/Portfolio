@@ -1,4 +1,5 @@
 # Portfolio
+<<<<<<< HEAD
 <p>Portfolio website using Vue
 -----------------------
 **Project Structure**
@@ -19,3 +20,7 @@ Contact: use REST API
 2021.11.26(Fri)
 add contact pages(write, list, view)
 
+=======
+Portfolio website using Vue, MySQL, nodejs
+-------------------------
+>>>>>>> 3c9af86203f6d99825b21fadb6279850da1e210b
