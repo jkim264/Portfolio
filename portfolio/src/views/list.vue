@@ -126,7 +126,7 @@
 			this.paging.page = 1;
 			this.fnGetList();
 		}
-		, fnPage(n) {//페이징 이
+		, fnPage(n) {//페이징 이동
 			if(this.page != n) {
 				this.page = n;
 				this.fnGetList();
