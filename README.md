@@ -1,26 +1,24 @@
-# Portfolio
-<<<<<<< HEAD
-<p>Portfolio website using Vue
------------------------
-**Project Structure**
+<h1>Portfolio</h1>
+<p>Portfolio website using Vue</p>
+<hr>
+<h2>Project Structure<h2>
 <img width="500" alt="Project structure" src="./img/Project Structrue.png">
-------------------------
-**Overview**
+<hr>
+  <h2>Overview</h2>
 
-Consists of 5 pages.
-(Home, About, Skills, Work, Contact)
+<p>Consists of 5 pages.<br>
+(Home, About, Skills, Work, Contact)<br>
 
-Have to use backend.
+Have to use backend.<br>
 
-Skills : will use chartjs
-Work : will add more works
-Contact: use REST API
------------------------
-**History**
-2021.11.26(Fri)
-add contact pages(write, list, view)
+Skills : will use chartjs<br>
+Work : will add more works<br>
+Contact: use REST API<br>
+<hr>
+<h2>History</h2>
+<p>2021.11.26(Fri)<br>
+add contact pages(write, list, view)</p>
 
-=======
-Portfolio website using Vue, MySQL, nodejs
--------------------------
->>>>>>> 3c9af86203f6d99825b21fadb6279850da1e210b
+<hr>
+  <h3>Portfolio website using Vue, MySQL, nodejs</h3>
+
